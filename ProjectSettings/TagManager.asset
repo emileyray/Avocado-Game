@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Thorn_front
+  - Thorn
+  - Crystal
+  - WhiteEye
+  - Ladder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Thorn
+  - Arm Limits
+  - seed
+  - Actions
+  - Batut
+  - Not Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4248606619
+    locked: 0
+  - name: ThornBack
+    uniqueID: 4119922301
+    locked: 0
+  - name: ThornFornt
+    uniqueID: 4130337903
+    locked: 0
+  - name: Actions
+    uniqueID: 3201604413
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Batut
+    uniqueID: 2547482531
+    locked: 0
